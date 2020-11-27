@@ -1,6 +1,6 @@
 package models
 
 case class Document(
-									 docId: Int,
-									 content: String
-									 )
+									docId: Int,
+									content: String
+									)
